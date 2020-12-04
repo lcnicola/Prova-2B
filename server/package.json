@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ArthurPedroti/crud.git"
+    "url": "git+https://github.com/lcnicola/Prova-2B"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ArthurPedroti/crud/issues"
+    "url": "https://github.com/lcnicola/Prova-2B/issues"
   },
-  "homepage": "https://github.com/ArthurPedroti/crud#readme",
+  "homepage": "https://github.com/lcnicola/Prova-2B",
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.17.1",
